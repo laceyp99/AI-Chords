@@ -19,3 +19,6 @@ Then, you will need to enter the prompt in the correct format (ex. Gb minor 147 
 Lastly, click the ‘Generate Chord Progression’ button and wait until a success notification pops up. A MIDI file within the specified directory will be created and titled the same as the prompt. 
 
 From there you can easily drag and drop the MIDI file into your DAW to spark your production inspiration.
+
+## Pricing
+This program runs using the OpenAI API to prompt my fine-tuned model, so the only payment needed is the usage costs. The input cost ($0.0120 / 1K tokens) is significantly nothing due to the fact that each prompt is about 7 - 15 tokens. The output price ($0.0160 / 1K tokens) is close to the input token price but it is the majority of the operating cost of this model. The max_tokens for the outpuat has been set to 300, so an estimate on how much you pay for each MIDI chord progression prompt is $0.00498.
